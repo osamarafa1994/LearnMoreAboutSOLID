@@ -1,0 +1,16 @@
+{
+    "name": "vendor/learn-more",
+    "description": "SOLID",
+    "authors": [
+        {
+            "name": "Osama arafa",
+            "email": "osamaarafa15@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "Classes/"
+        }
+    }
+}
